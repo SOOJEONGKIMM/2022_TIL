@@ -1,6 +1,7 @@
 - 🔥 TIL Rules 🔥
 
-ㅡ
+ㅡ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2022_TIL&count_bg=%235B9231&title_bg=%236AD7CA&icon=&icon_color=%23577622&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
     - TIL은 Today I Learned의 약자로, 개발자들이 매일 공부하거나 코딩한 내용을 정리하여 깃허브에 일일 커밋하는 챌린지다. 일종의 Github Contribution 잔디밭 채우기 챌린지다.
     
