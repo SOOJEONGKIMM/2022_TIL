@@ -1,0 +1,16 @@
+- 에러해결로그
+    
+    torch가 CUDA에서 enable안되는 에러문
+    
+    ```python
+    raise AssertionError("Torch not compiled with CUDA enabled")
+    AssertionError: Torch not compiled with CUDA enabled
+    ```
+    
+    여러 버전 다 해보았는데 계속 안되었는데
+    
+    ```python
+    pip install torch===1.5.0 torchvision===0.6.0 -f https://download.pytorch.org/whl/torch_stable.html
+    ```
+    
+    이 버전으로 하니 torch.cuda.is_available()이 True으로 해결!
