@@ -8,3 +8,5 @@
     
     -  2022년 TIL은 일자별로가 아닌 카테고리별로 깔끔하게 정리하기로 했다. 2021년에는 사적인 일정 내용도 많아서 Private 상태로 두었는데 2022는 Public으로 해둘 계획. 
 
+Statistics
+- 충분통계량(Sufficitent Statistics)(https://hidemasa.tistory.com/196)
