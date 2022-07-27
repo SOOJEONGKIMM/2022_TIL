@@ -11,21 +11,21 @@
 Statistics
 - [충분통계량(Sufficitent Statistics)](https://hidemasa.tistory.com/196)
 
-- NLP paper
+NLP paper
     
     [https://github.com/SOOJEONGKIMM/Paper_log/issues/9](https://github.com/SOOJEONGKIMM/Paper_log/issues/9)
     
 
-- Algorithm(Coding Test)
+Algorithm(Coding Test)
     - Queue와 Deque: deque가 queue보다 빠르다. queue의 pop()은 O(N)인 반면, deque의 popleft()은 O(1)이다.
     - 정규 표현식 외워두고 사용하면 문자열 문제에서 용이하다.
         - ex) 신규아이디추천(프로그래머스)
-            
+
             [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/72410/solution_groups?language=python3)
-            
+
             ```
             import re
-            
+
             def solution(new_id):
                 st = new_id
                 st = st.lower()
